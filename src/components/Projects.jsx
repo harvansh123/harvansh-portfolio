@@ -23,7 +23,7 @@ const projects = [
     tags: ['Python', 'ML', 'NLP', 'React', 'Supabase'],
     icon: '🤖',
     color: '#6c63ff',
-    live: 'https://ai-digital-doctor.vercel.app',
+    live: 'https://ai-powered-digital-doctor.vercel.app/',
     github: 'https://github.com/harvansh/ai-digital-doctor',
     featured: true,
   },

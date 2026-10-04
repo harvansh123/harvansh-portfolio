@@ -13,15 +13,15 @@ const contactInfo = [
   {
     icon: '💼',
     label: 'LinkedIn',
-    value: 'linkedin.com/in/harvansh-chaurasia',
-    href: 'https://linkedin.com/in/harvansh-chaurasia',
+    value: 'linkedin.com/in/harvansh007',
+    href: 'https://linkedin.com/in/harvansh007/',
     color: '#0077b5',
   },
   {
     icon: '🐙',
     label: 'GitHub',
-    value: 'github.com/harvansh',
-    href: 'https://github.com/harvansh',
+    value: 'github.com/harvansh123',
+    href: 'https://github.com/harvansh123',
     color: '#e8e8f0',
   },
 ];
@@ -30,7 +30,7 @@ const contactInfo = [
 const socialBtns = [
   {
     label: 'GitHub',
-    href: 'https://github.com/harvansh',
+    href: 'https://github.com/harvansh123',
     color: '#e8e8f0',
     hoverBg: 'rgba(232,232,240,0.1)',
     isEmail: false,
@@ -42,7 +42,7 @@ const socialBtns = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/harvansh-chaurasia',
+    href: 'https://linkedin.com/in/harvansh007/',
     color: '#0ea5e9',
     hoverBg: 'rgba(14,165,233,0.1)',
     isEmail: false,

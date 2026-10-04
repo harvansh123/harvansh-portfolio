@@ -215,7 +215,7 @@ export default function Projects() {
           className="flex justify-center mt-10"
         >
           <motion.a
-            href="https://github.com/harvansh"
+            href="https://github.com/harvansh123"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05, y: -2 }}

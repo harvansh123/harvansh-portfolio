@@ -173,7 +173,7 @@ export default function About() {
                 Get In Touch
               </motion.a>
               <motion.a
-                href="https://linkedin.com/in/harvansh-chaurasia"
+                href="https://linkedin.com/in/harvansh007/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05, y: -2 }}

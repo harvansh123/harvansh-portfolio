@@ -184,7 +184,7 @@ export default function Hero() {
             {/* Stats */}
             <motion.div variants={itemVariants} className="flex gap-8 pt-4 justify-center lg:justify-start">
               {[
-                { value: '2+', label: 'Projects' },
+                { value: '3+', label: 'Projects' },
                 { value: '6+', label: 'Technologies' },
                 { value: '4+', label: 'Certifications' },
               ].map(stat => (

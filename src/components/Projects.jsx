@@ -3,6 +3,19 @@ import { motion, useInView } from 'framer-motion';
 
 const projects = [
   {
+    id: 3,
+    title: 'Royals Zaika — Food Delivery App',
+    description:
+      'Production-ready full-stack food delivery platform handling the entire order lifecycle — from customer browsing to rider delivery. Multi-role auth (Customer, Owner, Rider, Admin), real-time order tracking via Supabase WebSockets, GPS delivery radius enforcement, payments, audio alarm on locked screens, VAPID push notifications, referral rewards system, and a full RLS security model.',
+    category: 'Full Stack Web App',
+    tags: ['Next.js 15', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Google Maps', 'PWA'],
+    icon: '🛵',
+    color: '#ff6b35',
+    live: 'https://royals-zaika-website.vercel.app',
+    github: 'https://github.com/harvansh123/royals-zaika-website',
+    featured: true,
+  },
+  {
     id: 1,
     title: 'AI Powered Digital Doctor',
     description:
@@ -19,24 +32,11 @@ const projects = [
     title: 'Personal Portfolio Website',
     description:
       'Designed and developed a responsive personal portfolio website to showcase skills, projects, certifications, and contact information.',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Firebase','React.js'],
+    tags: ['HTML', 'CSS', 'JavaScript', 'Firebase', 'React.js'],
     icon: '📚',
     color: '#00d4ff',
     github: 'https://github.com/harvansh/Personal Portfolio',
     featured: false,
-  },
-  {
-    id: 3,
-    title: 'Royals Zaika — Food Delivery App',
-    description:
-      'Production-ready full-stack food delivery platform handling the entire order lifecycle — from customer browsing to rider delivery. Multi-role auth (Customer, Owner, Rider, Admin), real-time order tracking via Supabase WebSockets, GPS delivery radius enforcement, Razorpay payments, audio alarm on locked screens, VAPID push notifications, referral rewards system, and a full RLS security model.',
-    category: 'Full Stack Web App',
-    tags: ['Next.js 15', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Zustand', 'Razorpay', 'Google Maps', 'PWA'],
-    icon: '🛵',
-    color: '#ff6b35',
-    live: 'https://royals-zaika-website.vercel.app',
-    github: 'https://github.com/harvansh123/royals-zaika-website',
-    featured: true,
   },
 ];
 
